@@ -28,10 +28,17 @@ Includes posts on movie-related merchandise and promotions, such as limited-edit
 Terms and Conditions Page (Kushtet.html)
 
 Details policies on ticket purchases, refunds, behavior, and in-theater rules.
+
 Technology Stack
+
 HTML/CSS/JavaScript: Standard front-end technologies for building the user interface.
+
 Bootstrap: Used for responsive design, ensuring the site works smoothly on all devices.
+
 Images: Rich visual content to enhance the user experience.
+
 Google Maps API: Embedded location for easy navigation to the cinema.
+
 Developer Credits
+
 Website development by Frenkli Koleci.
